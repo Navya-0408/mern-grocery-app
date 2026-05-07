@@ -1,0 +1,14 @@
+packages
+
+express
+nodemon   //type in teminal ---> npm run dev
+mongoose
+dotenv
+bcryptjs
+jwrwebtoken
+cors
+multer // for image uploads , instead of storage images are stored on disk
+nodemailer
+
+
+====12 V 20mins======
